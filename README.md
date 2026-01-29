@@ -46,6 +46,8 @@ This Python application captures sign language gestures from your laptop camera,
 
 The application recognizes ASL alphabet letters based on which fingers are extended and their relative positions. The recognition is basic and may not be 100% accurate. Supported letters include A, B, D, E, F, G, H, I, K, L, M, N, O, P, Q, S, T, U, V, W, X, Y.
 
+still working to make the progress to go from the lettes to words and form the word to straight to the sentence 
+
 ## Troubleshooting
 
 - **Camera not opening**: Ensure no other application is using the camera. Try closing other video apps.
@@ -73,3 +75,4 @@ The application recognizes ASL alphabet letters based on which fingers are exten
 ## License
 
 This project is open-source. Feel free to modify and distribute.
+And if you find some good in this and seem an idea do have the great potential then we are welcome to collab
